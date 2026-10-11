@@ -129,15 +129,6 @@ I value open source as an environment to learn collaborative engineering practic
 
 ---
 
-## Achievements
-
-- 🦈 **Pull Shark ×3** &mdash; Merged multiple collaborative pull requests
-- 👥 **Pair Extraordinaire ×2** &mdash; Co-authored commits in collaborative repositories
-- 🚀 **YOLO** &mdash; Merged a pull request without code review
-- ⚡ **Quickdraw** &mdash; Closed an issue or pull request within minutes of opening
-
----
-
 ## Current Focus
 
 - 🎯 Solving algorithmic problems in **Java** to strengthen complexity analysis, trees, graphs, and dynamic programming.
