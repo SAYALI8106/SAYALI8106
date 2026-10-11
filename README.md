@@ -125,14 +125,6 @@ I value open source as an environment to learn collaborative engineering practic
 
 ---
 
-## Current Focus
-
-- 🎯 Solving algorithmic problems in **Java** to strengthen complexity analysis, trees, graphs, and dynamic programming.
-- 🛠️ Building full-stack web applications with **React 19**, **TypeScript**, and **Express**, focusing on clean data boundaries and type safety.
-- 🤝 Actively contributing to community projects during **GSSoC'26** and learning through team code reviews.
-
----
-
 ## Connect With Me
 
 If you'd like to collaborate on a project, discuss software development, or connect, feel free to reach out:
