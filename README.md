@@ -140,11 +140,4 @@
 
 ---
 
-### 🏆 Achievements
 
-- 🦈 **Pull Shark** ×3
-- 👯 **Pair Extraordinaire** ×2
-- ⚡ **YOLO**
-- 🎯 **Quickdraw**
-
----
