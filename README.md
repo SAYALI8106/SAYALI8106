@@ -107,8 +107,6 @@ I value open source as an environment to learn collaborative engineering practic
 - **GirlScript Summer of Code 2026 (GSSoC'26)**: Actively participating by contributing code, resolving opened issues, and submitting reviewed pull requests.
 - **Collaborative Workflows**: Comfortable with feature branching, PR discussions, rebasing, issue tracking, and code refactoring within shared team repositories.
 
-👉 [View my public repositories & activity on GitHub](https://github.com/SAYALI8106?tab=repositories)
-
 ---
 
 ## GitHub Activity
