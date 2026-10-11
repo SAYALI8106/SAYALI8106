@@ -26,8 +26,6 @@ I am a software developer and computer science student focused on building funct
 
 ## Featured Projects
 
-These four repositories highlight my work across full-stack development, database modeling, and real-world problem solving.
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
