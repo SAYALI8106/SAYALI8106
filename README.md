@@ -6,30 +6,37 @@
   Diploma Graduate in Information Technology from <strong>Government Polytechnic, Chhatrapati Sambhajinagar</strong><br>
   Interested in building practical web applications and contributing to open source.
 </p>
-<img src="https://hits.sh/github.com/SAYALI8106/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github" align="right" alt="Profile visitors"/>
+
+<p align="center">
+  <img src="https://hits.sh/github.com/SAYALI8106/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github" alt="Profile visitors">
+</p>
 
 ---
 
-- 🌐 Passionate about **full-stack web development** and building practical web applications
-- 🛠️ Hands-on experience developing end-to-end web projects with **React, TypeScript, Node.js, and Express**
-- ☕ Strong interest in **Java, Data Structures & Algorithms**, and problem solving
-- 🌟 Active open-source contributor at **GirlScript Summer of Code 2026 (GSSoC'26)**
-- 🤝 Comfortable with **collaborative GitHub workflows, code reviews, and peer pull requests**
-<br>
+<p>
+  🌐 Passionate about <strong>full-stack web development</strong> and building practical web applications<br>
+  🛠️ Hands-on experience developing end-to-end web projects with <strong>React, TypeScript, Node.js, and Express</strong><br>
+  ☕ Strong interest in <strong>Java, Data Structures & Algorithms</strong>, and problem solving<br>
+  🌟 Active open-source contributor at <strong>GirlScript Summer of Code 2026 (GSSoC'26)</strong><br>
+  🤝 Comfortable with <strong>collaborative GitHub workflows, code reviews, and peer pull requests</strong>
+</p>
 
-# 🌐 Socials: 
+---
+
+<h2>🌐 Socials</h2>
 
 <p>
   <a href="https://github.com/SAYALI8106" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="https://www.linkedin.com/in/sayaligayke810" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:sayaligayke810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 <br>
 
 <h2>💻 Tech Stack</h2>
@@ -85,23 +92,23 @@
       <h3><a href="https://github.com/SAYALI8106/MentorHub">MentorHub</a></h3>
       <p>A mentorship and booking platform connecting students with mentors, featuring weekly schedule availability and meeting integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
       </p>
-      <p><a href="https://github.com/SAYALI8106/MentorHub">View Repository &rarr;</a></p>
+      <p><a href="https://github.com/SAYALI8106/MentorHub">View Repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAYALI8106/Culinaria">Culinaria</a></h3>
       <p>A recipe discovery and management application featuring rich-text recipe creation, multi-attribute filtering, ratings, and bookmarking.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React 19">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma">
       </p>
-      <p><a href="https://github.com/SAYALI8106/Culinaria">View Repository &rarr;</a></p>
+      <p><a href="https://github.com/SAYALI8106/Culinaria">View Repository →</a></p>
     </td>
   </tr>
   <tr>
@@ -109,35 +116,41 @@
       <h3><a href="https://github.com/SAYALI8106/TaskSphere-Pro">TaskSphere Pro</a></h3>
       <p>A task and workflow management application featuring per-user tenant isolation, dual-engine data storage, and JWT authentication.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React 19">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </p>
-      <p><a href="https://github.com/SAYALI8106/TaskSphere-Pro">View Repository &rarr;</a></p>
+      <p><a href="https://github.com/SAYALI8106/TaskSphere-Pro">View Repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAYALI8106/SmartCampus">SmartCampus</a></h3>
       <p>A campus attendance management application utilizing time-bounded dynamic QR codes to record student attendance and prevent proxy marking.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white" alt="Ant Design" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
+        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white" alt="Ant Design">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
       </p>
-      <p><a href="https://github.com/SAYALI8106/SmartCampus">View Repository &rarr;</a></p>
+      <p><a href="https://github.com/SAYALI8106/SmartCampus">View Repository →</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-# 📊 GitHub Stats:
-![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/SAYALI8106?theme=tokyonight)<br>
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=SAYALI8106&theme=transparent&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYALI8106&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SAYALI8106?theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAYALI8106&theme=transparent&hide_border=true" alt="GitHub Contribution Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYALI8106&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
+</p>
 
 ---
-
-
