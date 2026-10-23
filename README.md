@@ -149,7 +149,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SAYALI8106&theme=transparent&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYALI8106&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
 </p>
 
